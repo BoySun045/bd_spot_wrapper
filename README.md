@@ -1,5 +1,7 @@
 # Simple Python API for Spot
 
+# For CVG Spot-fluffy
+
 ## Installation
 
 Create the conda env:
