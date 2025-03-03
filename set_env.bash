@@ -1,0 +1,2 @@
+export SPOT_ADMIN_PW=ka3u1nfkr977
+export SPOT_IP=192.168.50.3
